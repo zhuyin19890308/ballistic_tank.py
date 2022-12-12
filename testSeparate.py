@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @author: Zhu Yin
-@license: (C) Copyright 2021, 207研究所.
+@license: (C) Copyright 2021
 @contact: zzyIzzf@mail.ustc.edu.cn
 @software: Pycharm
 @file: testSeparate.py
